@@ -14,7 +14,7 @@
 
             Bu algoritma için Big O Notasyonu:
 
-**O(n^2)**
+            O(n^2)
 
 ###     Part III
 
