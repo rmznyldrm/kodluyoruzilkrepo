@@ -1,3 +1,13 @@
 *.jpg
 *.png
 *.mp4
+
+
+# visual studio code ignoreları
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
